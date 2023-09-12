@@ -1,8 +1,6 @@
 helllooooooo
-<<<<<<< HEAD
 Hi carmel and lara 
-=======
 hi carmel
 hello mikay
->>>>>>> 450af9616d47c4f47c118aeb1e3cc03f6b284f04
 how are you
+Not really ok
